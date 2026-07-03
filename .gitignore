@@ -1,0 +1,11 @@
+# Environments
+.venv/
+
+# Generated data (rebuild with: python -m volpulse)
+data_store/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
